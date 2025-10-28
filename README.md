@@ -26,8 +26,8 @@ Ich interessiere mich leidenschaftlich für Computer, Programmierung, IT-Systeme
 
 ### 🚀 Was ich gerade mache
 - 📘 Ich lerne täglich neue Themen rund um Informatik und Technik  
-- 🎓 Ich verbessere mein Deutsch (Ziel: B2-Niveau)  
-- 💼 Ich bereite mich auf eine Ausbildung als Fachinformatiker für Systemintegration ab 2026 vor  
+- 🎓 Ich verbessere mein Deutsch 
+- 💼 Ich bereite mich auf eine Ausbildung als Fachinformatiker vor  
 
 ---
 
@@ -41,8 +41,8 @@ Ich interessiere mich leidenschaftlich für Computer, Programmierung, IT-Systeme
 ---
 
 ### 📫 Kontakt
-- 💻 GitHub-Profil: [github.com/твоя-ссылка](https://github.com/)  
-- 📧 E-Mail: *(optional – kannst du hinzufügen, wenn du willst)*  
+- 💬 Telegram: *https://t.me/Venester* 
+- 📧 E-Mail: *m.juk4225@gmail.com*  
 
 ---
 
