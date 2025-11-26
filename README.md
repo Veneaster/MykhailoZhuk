@@ -14,29 +14,29 @@ Ich interessiere mich leidenschaftlich für Computer, Programmierung, IT-Systeme
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🐍 Python – Grundkenntnisse, kleine Projekte, Automatisierung & Skripting  
-- ☕️ Java – Objektorientierte Programmierung, kleine Konsolenprojekte  
-- 💠 C# – Grundkenntnisse, Verständnis von Syntax und Logik  
-- 🧠 Linux Basics – Terminalbefehle, Dateisystem, Benutzerverwaltung  
-- 🧩 Hardware & PC-Bau – Verständnis von Komponenten, Zusammenbau & Wartung  
+- 🐍 Python – Grundkenntnisse, kleine Projekte, Automatisierung & Skripting.  
+- ☕️ Java – Objektorientierte Programmierung, kleine Konsolenprojekte.  
+- 💠 C# – Grundkenntnisse, Verständnis von Syntax und Logik.  
+- 🧠 Linux Basics – Terminalbefehle, Dateisystem, Benutzerverwaltung.  
+- 🧩 Hardware & PC-Bau – Verständnis von Komponenten, Zusammenbau & Wartung.  
 - ⚙️ IT-Systeme & Netzwerke – Grundwissen über Netzwerke, IP, Router usw.  
-- 🧑‍💻 Software Tools: VS Code, IntelliJ IDEA, Visual Studio, Git, Blender, Photoshop, Aseprite, MS Office  
+- 🧑‍💻 Software Tools: VS Code, IntelliJ IDEA, Visual Studio, Git, Blender, Photoshop, Aseprite, MS Office.  
 
 ---
 
-### 🚀 Was ich gerade mache
-- 📘 Ich lerne täglich neue Themen rund um Informatik und Technik  
-- 🎓 Ich verbessere mein Deutsch 
-- 💼 Ich bereite mich auf eine Ausbildung als Fachinformatiker vor  
+### 🚀 Was ich gerade mache.
+- 📘 Ich lerne täglich neue Themen rund um Informatik und Technik.  
+- 🎓 Ich verbessere mein Deutsch. 
+- 💼 Ich bereite mich auf eine Ausbildung als Fachinformatiker vor.  
 
 ---
 
 ### 🌱 Interessen
-- 💡 Elektronik & Hardware  
-- 🧰 IT-Systeme & Netzwerke  
-- 💾 Programmierung & Automatisierung  
-- 🌍 Naturwissenschaft, Physik, Astronomie  
-- 🎮 Gaming & moderne Technologie  
+- 💡 Elektronik & Hardware.  
+- 🧰 IT-Systeme & Netzwerke.  
+- 💾 Programmierung & Automatisierung.  
+- 🌍 Naturwissenschaft, Physik, Astronomie.  
+- 🎮 Gaming & moderne Technologie.  
 
 ---
 
